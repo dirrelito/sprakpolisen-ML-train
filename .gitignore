@@ -1,0 +1,8 @@
+# output data file containing the network should not be versioned.
+perceptron.json
+
+# npm dependencies
+node_modules/
+
+# sublime workspace files
+*.sublime-workspace
