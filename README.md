@@ -1,4 +1,4 @@
-# analytics
+# Training method for Neataptic network
 
 A slightly stupid gynaptic network for classifying words.
 It does not work very well in terms of accurracy, and the network trains very slowly.
