@@ -15,10 +15,9 @@
     "pad": "1.1.0",
     "randomstring": "1.1.5",
     "performance-now": "2.1.0",
-    "easy-table": "1.0.0"
+    "easy-table": "1.0.0",
+    "private-repo": "git://github.com/dirrelito/sprakpolisen-ml-lib.git"
   },
-  "scripts": {
-    "start": "nodemon --ignore './data' app.js"
-  },
-  "license": "MIT"
+  "license": "MIT",
+  "private":true
 }

@@ -1,5 +1,5 @@
 # output data file containing the network should not be versioned.
-perceptron.json
+output/
 
 # npm dependencies
 node_modules/
