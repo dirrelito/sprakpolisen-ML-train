@@ -1,0 +1,15 @@
+{
+	"out_path": "./output",
+	"pad_symbol": "¤",
+	"word_list_path": "./data/words.txt",
+	"word_length": 5,
+	"test_fraction": 0.1,
+	"trainer_base_options": 
+	{
+	    "rate": 0.05,
+	    "iterations": 50,
+	    "error": 0.005,
+	    "shuffle": true,
+	    "log": 10
+	}
+}
