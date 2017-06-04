@@ -20,5 +20,12 @@
     "zip-array": "1.0.1"
   },
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha --watch --recursive"
+  }
 }
